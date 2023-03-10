@@ -1,0 +1,25 @@
+li{
+  list-style:none;
+  display:inline-block;
+  color:rgb(235, 229, 229);
+  padding:50px;
+  margin-top:0px;
+  justify-content:center;
+}
+ul{
+  margin-top:-30px;
+  margin-left:200px;
+  position:relative;
+}
+
+Nav{
+  width:100%;
+  background-color:rgb(85, 85, 190);
+  height:90px;
+  margin-top:50px;
+  position:relative;
+  margin-left:-250px;
+}
+input{
+  color:black;
+}
